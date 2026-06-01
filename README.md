@@ -320,6 +320,4 @@ lunar-base-api/
 
 ---
 
-## 📄 Licença
 
-Projeto acadêmico — FIAP. Todos os direitos reservados aos integrantes do grupo.
