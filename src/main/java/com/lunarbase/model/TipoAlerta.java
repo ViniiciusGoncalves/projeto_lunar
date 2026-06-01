@@ -1,0 +1,21 @@
+package com.lunarbase.model;
+
+public enum TipoAlerta {
+    TEMPERATURA_ALTA,
+    TEMPERATURA_BAIXA,
+    UMIDADE_ALTA,
+    UMIDADE_BAIXA,
+    NIVEL_AGUA_BAIXO,
+    NIVEL_AGUA_CRITICO,
+    OVERFLOW_RESERVATORIO,
+    CONSUMO_ENERGIA_ALTO,
+    BATERIA_BAIXA,
+    FALHA_SENSOR,
+    FALHA_ATUADOR,
+    PRESSAO_CRITICA,
+    QUALIDADE_AR_CRITICA,
+    RADIACAO_ALTA,
+    SISTEMA_DESLIGADO,
+    MANUTENCAO_NECESSARIA,
+    MANUAL           // Alerta criado manualmente pelo operador
+}
