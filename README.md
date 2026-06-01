@@ -67,7 +67,7 @@ src/main/java/com/lunarbase/
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/<seu-usuario>/lunar-base-api.git
+git clone https://github.com/ViniiciusGoncalves/projeto_lunar.git
 cd lunar-base-api
 ```
 
