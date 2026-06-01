@@ -11,7 +11,7 @@ API REST desenvolvida em Java 17 com Spring Boot para controle e monitoramento d
 |Vinicius Gonçalves      |561784   |
 
 
-> Preencha com o nome completo e RM de cada integrante do grupo.
+
 
 ---
 
